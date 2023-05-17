@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freddyfavour" alt="freddyfavour" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs,Nodejs**
+- 🌱 I’m currently learning **Reactjs and Nodejs**
 
 - 💬 Ask me about **html,css,javascript,tailwind and bootstrap**
 
-- 📫 How to reach me **alfredfavour76@omail.ai**
+- 📫 How to reach me: **alfredfavour76@omail.ai**
 
-- ⚡ Fun fact **I am multilingual**
+- ⚡ Fun fact: **I am multilingual**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
