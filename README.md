@@ -28,8 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freddyfavour&" alt="freddyfavour" /></p>
 
-<h3>License</h3>
-<h2>MIT License</h2>
+<h1>License</h1>
+<h3>MIT License</h3>
 
 <p>Copyright (c) 2023 freddyfavour<p>
 
