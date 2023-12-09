@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.main_recipe{
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_recipe-header{
+    padding: 1rem;
+}
+
+.main_recipe-header-text{
+    padding: 1rem;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.recipe_heading{
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: orange;
+    color: black;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+.img_background{
+    background-color: orange;
+    padding: 1rem;
+    margin: 1rem;
+    width: fit-content;
+    margin-top: 5rem;
+}
+
+
+.recipe_heading-img{
+    width: 100%;
+    max-width: 70wh;
+    height: 100%;
+    max-height: 60vh;
+}
+
+.bottom{
+    padding: 0 2rem;
+}
+
+.recipe_subheading{
+    margin-top: 1rem;
+    font-size: 28px;
+}
+
+li{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.486);
+}
+
+p{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.486);
+}
+
+span{
+    font-weight: 900;
+    color: white;
+}
+
+.final{
+    padding: 1rem;
+    font-size: 28px;
+    color: white;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_img{
+    max-height: 30vh;
+}
+
+a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
